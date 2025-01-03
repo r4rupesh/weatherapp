@@ -1,0 +1,11 @@
+.app-container {
+    text-align: center;
+    background-color:  #6a11cb;
+    height: 120vh;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+  }
